@@ -71,7 +71,7 @@ async function startBot() {
 ${EMOJI} ${BOT_NAME}`;
 
             await sock.sendMessage(from, {
-                image: {url: 'https://i.imgur.com/xxxx.jpg'}, // غيره برابط الصورة اللي فوق
+                image: {url: 'https://raw.githubusercontent.com/dama-67/DAMA-BOT/main/IMG-20261114-WA0056.jpg'},
                 caption: menuText,
                 footer: '✪ DAMA OFFICIAL ✪',
                 buttons: [
